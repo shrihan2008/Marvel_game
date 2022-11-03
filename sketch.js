@@ -38,7 +38,7 @@ function preload(){
     gun_shot_sound=loadSound('Sound/gun.mp3')
     explosion_sound=loadSound('Sound/explosion.mp3')
  
-    vbimg=loadImage("images/vb.jpeg")
+    vbimg=loadImage("Images/vb.jpeg")
 }
 
 
