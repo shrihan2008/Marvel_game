@@ -37,12 +37,7 @@ function preload(){
     bullet_img1=loadImage('Images/bullet1.png')
     gun_shot_sound=loadSound('Sound/gun.mp3')
     explosion_sound=loadSound('Sound/explosion.mp3')
-    star_wars=loadImage('Images/star.png')
-    space=loadImage('Images/space.jpeg')
-    av_img=loadImage('Images/av.png')
-    darth_img=loadImage('Images/darth.jpeg')
-    obi_img=loadImage('Images/obi.jpeg')
-    spaceship_img=loadImage('Images/spaces.jpeg')
+ 
     vbimg=loadImage("images/vb.jpeg")
 }
 
