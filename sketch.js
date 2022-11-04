@@ -167,9 +167,7 @@ function setup(){
   bullet.scale=0.3
  
 
-  av=createSprite(1300,300)
-  av.addImage(av_img)
-  av.scale=0.4
+ 
 }
 function draw(){
   
